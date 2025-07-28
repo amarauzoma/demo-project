@@ -1,2 +1,2 @@
 # demo-project
-Version Control 
+GitHub is a web-based platform for version control and collaboration, allowing developers to store, manage, and track changes to their code. It is built on Git and provides tools for issue tracking, code review, and project management, making it easier for teams to work together on software development projects.
